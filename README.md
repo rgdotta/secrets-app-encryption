@@ -5,5 +5,5 @@ Secret app project created to practice authentication and encryption with javasc
 The following methods are applied:
 
 - Register/Login
-- Hashing and salting password with bcrypt
+- Authentication with passport
 - Environment Variables
