@@ -4,6 +4,8 @@ Secret app project created to practice authentication and encryption with javasc
 
 The following methods are applied:
 
-- Register/Login
+- Register/Login locally
+- Register/Login with google using OAuth
 - Authentication with passport
+- Cookies
 - Environment Variables
