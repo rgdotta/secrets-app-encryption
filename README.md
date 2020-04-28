@@ -1,4 +1,4 @@
-# Secret App
+# Secrets App
 
 This is an app project created to practice authentication and encryption with EJS, node.js and mongoose.
 
