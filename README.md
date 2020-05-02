@@ -18,5 +18,4 @@ The following methods are applied:
 
 ![](public/images/secret_encryption.png)
 
-- Cookies
 - Environment Variable with dotenv
