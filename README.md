@@ -2,7 +2,7 @@
 
 This is an app project created to practice authentication and encryption with EJS, node.js and mongoose.
 
-The functionality is simple, every user post a secret which will be displayed in the secrets page.
+The functionality is simple, every registered user post a secret which will be displayed in the home page.
 
 ![](public/images/secret_home.png)
 ![](public/images/secret_secrets.png)
