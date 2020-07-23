@@ -38,13 +38,6 @@ The aplication will start on: https://localhost:3000/
 - Passport
 - Google OAuth
 
-## Next steps:
-
-This is still a work in progress, here is what is in my plans fot this project:
-
-- Add comment section.
-- Add page limiter to home.
-
 ## Screenshots
 
 ![](public/images/secret_home.png)
